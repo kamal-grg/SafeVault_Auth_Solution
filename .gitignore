@@ -1,0 +1,22 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Visual Studio settings
+.vs/
+
+# EF migrations folders (optional)
+Migrations/
+
+# SQLite database files
+*.db
+
+# ASP.NET secrets (if used)
+secrets.json

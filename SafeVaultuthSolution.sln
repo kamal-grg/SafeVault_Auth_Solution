@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVaultAuth", "SafeVaultAuth\SafeVaultAuth.csproj", "{C47F7C7C-1FD8-494F-8FFE-F146826A60EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVaultAuth.Tests", "SafeVaultAuth.Tests\SafeVaultAuth.Tests.csproj", "{A281D1D7-1235-439E-ACF8-85467F36878B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C47F7C7C-1FD8-494F-8FFE-F146826A60EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47F7C7C-1FD8-494F-8FFE-F146826A60EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47F7C7C-1FD8-494F-8FFE-F146826A60EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47F7C7C-1FD8-494F-8FFE-F146826A60EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A281D1D7-1235-439E-ACF8-85467F36878B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A281D1D7-1235-439E-ACF8-85467F36878B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A281D1D7-1235-439E-ACF8-85467F36878B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A281D1D7-1235-439E-ACF8-85467F36878B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6182ABBD-D46F-4559-A821-F1AEA1FDED16}
+	EndGlobalSection
+EndGlobal
